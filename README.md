@@ -2,25 +2,30 @@
 
 My tech-stack for 2021
 
-- 💘 TypeScript
-- 💰 Java
-- 💎 Solidity
-- 🛠 Golang
-- 🌈 React 
-- ⚡️ Electron 
-- ⛓ Web3
+- Languages: 💘 TypeScript | 💰 Java | 💎 Solidity | 🛠 Golang
+- Frameworks: 🌈 React | 🍃 Spring | 
+- Tools: ⚡️ Electron 
+- Libs: Ethers, web3j
 
-<!--
-**AndreyBronin/AndreyBronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>My tech background</summary>
 
-Here are some ideas to get you started:
+### 2018-2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: 🛠 Golang | 💘 TypeScript | 💎 Solidity | 
+- Frameworks: 🌈 React | 🅰️ Angular | 
+- Tools: ⚡️ Electron 
+  
+### 2013-2018
+
+- Languages: ➕➕ C++ | 💘 TypeScript | ♦️ Ruby | 🐘 PHP
+- Frameworks:  🟩 Qt | 🅰️ Angular | 
+- Tools: ⚡️ Electron 
+
+### 2006-2013
+
+- Languages: ➕➕ C++ | 🐘 PHP | ♦️ Ruby
+- Frameworks: 🟩 Qt | ⚫️ Symfony | 🛤 Rails
+
+</details>
+
