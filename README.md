@@ -27,3 +27,13 @@ My tech-stack for 2021
 
 </details>
 
+<details>
+<summary>Lifestyle ⤵️</summary>
+  
+ - 👪 Family
+ - 👨‍💻 Job 
+ - 🥁 Gigs
+ - 🍺 Parties
+ - 🎮 Games
+
+</details>
