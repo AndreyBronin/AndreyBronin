@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My tech-stack for 2021
+
+- 💘 TypeScript
+- 💰 Java
+- 💎 Solidity
+- 🛠 Golang
+- 🌈 React 
+- ⚡️ Electron 
+- ⛓ Web3
+
 <!--
 **AndreyBronin/AndreyBronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
