@@ -8,13 +8,27 @@ My tech-stack for 2021
 <details>
 <summary>My tech background ⤵️</summary>
 
-### 2018-2019
+### 2020
 
 - Languages: 🛠 Golang | 💘 TypeScript | 💎 Solidity | 
-- Frameworks: 🌈 React | 🅰️ Angular | 
-- Tools: ⚡️ Electron 
+- Frameworks: 🌈 React | 😸 Nest.js
+- Tools: ⚡️ Electron
+- DBs: Postgres, Firestore
+- Cloud: Firebase | Google
+
+### 2018-2019
+
+- Languages: 🛠 Golang | 💘 TypeScript
+- Frameworks: 🅰️ Angular | Ionic
+- DBs: Postgres
+- Tools: Kubernetes 
+
+### 2017-2018
+- Languages: 😵 C++ | 💘 TypeScript
+- Cloud: Azure | IBM Bluemix
+
   
-### 2013-2018
+### 2013-2017
 
 - Languages: 😵 C++ | 💘 TypeScript | ♦️ Ruby | 🐘 PHP
 - Frameworks: 🟩 Qt | 🅰️ Angular | 
@@ -22,7 +36,7 @@ My tech-stack for 2021
 
 ### 2006-2013
 
-- Languages: 😵 C++ | 🐘 PHP | ♦️ Ruby
+- Languages: 😵 C++ | C |  🐘 PHP | ♦️ Ruby | Lua
 - Frameworks: 🟩 Qt | ⚫️ Symfony | 🛤 Rails
 
 </details>
