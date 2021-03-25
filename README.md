@@ -39,15 +39,28 @@ My tech-stack for 2021
 - Languages: 😵 C++ | C |  🐘 PHP | ♦️ Ruby | Lua
 - Frameworks: 🟩 Qt | ⚫️ Symfony | 🛤 Rails
 
+### 2005-2007
+- Languages: 🏛 Delphi | 😵 C++
+- Embedded
+
+### 1998-2004
+- Languages: 🏛 Delphi | 😵 C++
+
+### 1994-1997
+- Languages: Sinclair Basic
+- XZ Spectrum
+
 </details>
 
 <details>
 <summary>Lifestyle ⤵️</summary>
-  
+ 
+ 
  - 👪 Family
  - 👨‍💻 Job 
  - 🥁 Gigs
  - 🍺 Parties
  - 🎮 Games
+ - ✈️ Travel
 
 </details>
