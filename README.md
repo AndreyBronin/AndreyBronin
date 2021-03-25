@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My tech-stack for 2021
 
 - Languages: 💘 TypeScript | 💰 Java | 💎 Solidity | 🛠 Golang
@@ -8,7 +6,7 @@ My tech-stack for 2021
 - Libs: Ethers, web3j
 
 <details>
-<summary>My tech background</summary>
+<summary>My tech background ⤵️</summary>
 
 ### 2018-2019
 
@@ -18,13 +16,13 @@ My tech-stack for 2021
   
 ### 2013-2018
 
-- Languages: ➕➕ C++ | 💘 TypeScript | ♦️ Ruby | 🐘 PHP
-- Frameworks:  🟩 Qt | 🅰️ Angular | 
+- Languages: 😵 C++ | 💘 TypeScript | ♦️ Ruby | 🐘 PHP
+- Frameworks: 🟩 Qt | 🅰️ Angular | 
 - Tools: ⚡️ Electron 
 
 ### 2006-2013
 
-- Languages: ➕➕ C++ | 🐘 PHP | ♦️ Ruby
+- Languages: 😵 C++ | 🐘 PHP | ♦️ Ruby
 - Frameworks: 🟩 Qt | ⚫️ Symfony | 🛤 Rails
 
 </details>
