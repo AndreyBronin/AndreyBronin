@@ -1,8 +1,8 @@
 My tech-stack for 2021
 
-- Languages: 💘 TypeScript | 💰 Java | 💎 Solidity | 🛠 Golang
+- Languages: 💘 TypeScript | 💎 Solidity | 💰 Java | 🛠 Golang
 - Frameworks: 🌈 React | 🍃 Spring | 
-- Tools: ⚡️ Electron 
+- Tools: 👷‍♂️ Hardhat | ⚡️ Electron 
 - Libs: Ethers, web3j
 
 <details>
