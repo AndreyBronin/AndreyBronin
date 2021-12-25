@@ -1,12 +1,23 @@
-My tech-stack for 2021
+My tech stack for 2022 would be:
+
+- Languages: 💘 TypeScript | 💎 Solidity | Rust
+- Frameworks: 🌈 React | 😺 NestJS | OpenZeppelin
+- Tools: 👷‍♂️ Hardhat | TheGraph | Metaplex | Moralis.io
+- Libs: Ethers, web3j
+- Infrastructure: Firebase | Google Cloud
+- Blockchain: Ethereum, Solana
+
+### 2021
 
 - Languages: 💘 TypeScript | 💎 Solidity | ☕️ Java | 🛠 Golang
 - Frameworks: 🌈 React | 🍃 Spring | 😺 NestJS | OpenZeppelin
 - Tools: 👷‍♂️ Hardhat | ⚡️ Electron | TheGraph
 - Libs: Ethers, web3j
+- Infrastructure: Firebase | Google Cloud
+- Blockchain: Ethereum
 
 <details>
-<summary>My tech background ⤵️</summary>
+<summary>My previous tech background ⤵️</summary>
 
 ### 2020
 
@@ -25,6 +36,7 @@ My tech-stack for 2021
 
 ### 2017-2018
 - Languages: 😵 C++ | 💘 TypeScript
+- DBs: Postgres, MongoDB
 - Cloud: Azure | IBM Bluemix
 
   
@@ -32,6 +44,7 @@ My tech-stack for 2021
 
 - Languages: 😵 C++ | 💘 TypeScript | ♦️ Ruby | 🐘 PHP
 - Frameworks: 🟩 Qt | 🅰️ Angular | 
+- DBs: Postgres, MySQL
 - Tools: ⚡️ Electron 
 
 ### 2006-2013
@@ -40,8 +53,8 @@ My tech-stack for 2021
 - Frameworks: 🟩 Qt | ⚫️ Symfony | 🛤 Rails
 
 ### 2005-2007
-- Languages: 🏛 Delphi | 😵 C++
-- Embedded
+- Languages: 🏛 Delphi | 😵 C++ | ActionScript
+- Embedded: C | Asm
 
 ### 1998-2004
 - Languages: 🏛 Delphi | 😵 C++
