@@ -1,11 +1,11 @@
-My tech stack for 2022 would be:
+My tech stack for 2022:
 
-- Languages: 💘 TypeScript | 💎 Solidity | Rust
+- Languages: 💘 TypeScript | 💎 Solidity
 - Frameworks: 🌈 React | 😺 NestJS | OpenZeppelin
-- Tools: 👷‍♂️ Hardhat | TheGraph | Metaplex | Moralis.io
+- Tools: 👷‍♂️ Hardhat | TheGraph
 - Libs: Ethers, web3j
 - Infrastructure: Firebase | Google Cloud
-- Blockchain: Ethereum, Solana
+- Blockchain: Ethereum
 
 ### 2021
 
