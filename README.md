@@ -1,4 +1,13 @@
-My tech stack for 2022:
+My tech stack for 2023:
+
+- Languages: 💘 TypeScript | 💎 Solidity
+- Frameworks: 😺 NestJS | OpenZeppelin | Tenderly
+- Tools: 👷‍♂️ Hardhat | Foundry
+- Libs: Ethers, web3js
+- Infrastructure: AWS, K8s
+- Blockchain: Ethereum, EVM based chains
+  
+### 2022
 
 - Languages: 💘 TypeScript | 💎 Solidity
 - Frameworks: 🌈 React | 😺 NestJS | OpenZeppelin
