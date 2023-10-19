@@ -1,5 +1,7 @@
 My tech stack for 2023:
 
+❗Open to Work -> [Resume](https://rxresu.me/r/Wk21FSHF)
+
 - Languages: 💘 TypeScript | 💎 Solidity
 - Frameworks: 😺 NestJS | OpenZeppelin | Tenderly
 - Tools: 👷‍♂️ Hardhat | Foundry
