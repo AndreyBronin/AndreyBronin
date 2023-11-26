@@ -1,6 +1,6 @@
 ## My tech stack:
 
-❗Open to Work -> [Resume](https://rxresu.me/r/Wk21FSHF)
+❗Open to Work -> [Resume](https://rxresu.me/drugoyzvuk/andrei-bronin)
 
 ### 2023
 
