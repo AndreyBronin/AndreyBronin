@@ -1,7 +1,5 @@
 ## My tech stack:
 
-❗Open to Work -> [Resume](https://rxresu.me/drugoyzvuk/andrei-bronin)
-
 ### 2023
 
 - Languages: 💘 TypeScript | 🛠 Golang | 💎 Solidity
