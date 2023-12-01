@@ -3,11 +3,11 @@
 ### 2023
 
 - Languages: 💘 TypeScript | 🛠 Golang | 💎 Solidity
-- Frameworks: 😺 NestJS | 🌈 React | OpenZeppelin | Tenderly
-- Tools: 👷‍♂️ Hardhat | Foundry
+- Frameworks: 😺 NestJS | 🌈 React | △ NextJS | OpenZeppelin | Tenderly
+- Tools: 👷‍♂️ Hardhat | Foundry | Strapi
 - Libs: Ethers, web3js
 - Infrastructure: AWS, K8s
-- Blockchain: Ethereum, EVM based chains
+- Blockchain: Ethereum, EVM based chains, TON
   
 ### 2022
 
