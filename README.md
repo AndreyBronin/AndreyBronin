@@ -1,5 +1,16 @@
 ## My tech stack:
 
+❗Open to Work -> [Resume](https://rxresu.me/andreybronin/resume)
+
+### 2024
+
+- Languages: 🛠 Golang | 💘 TypeScript | TACT | FunC
+- Frameworks: Telegraf Bot framework, NextJS
+- Tools: Tonviewer | Strapi | TonAPI
+- Libs: tongo, tonutils-go
+- Infrastructure: GKE, K8s
+- Blockchain: TON
+
 ### 2023
 
 - Languages: 💘 TypeScript | 🛠 Golang | 💎 Solidity
